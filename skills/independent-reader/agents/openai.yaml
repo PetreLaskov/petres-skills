@@ -1,0 +1,6 @@
+interface:
+  display_name: "Independent Reader"
+  short_description: "Read implications and tone without author intent"
+  default_prompt: "Use $independent-reader to report what this passage communicates through a fresh reader without access to memory or our conversation."
+policy:
+  allow_implicit_invocation: true

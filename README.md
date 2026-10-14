@@ -21,6 +21,19 @@ including where it is uncertain and what would change it. It is designed to
 support independent judgment and substantive disagreement. Ordinary brief
 explanations and procedural walkthroughs do not need its full treatment.
 
+### [Independent Reader](skills/independent-reader/SKILL.md)
+
+Read what a passage communicates before comparing it with the author's intent.
+The skill prepares an exact text packet for a fresh reader and supports four
+modes: implications, reader perspective, emotional tone, and revision inference.
+It anchors observations in the text and keeps plausible readings distinct from
+claims about the author's motives or actual audience response.
+
+A blind reading requires a clean context. If author-related memory, profile,
+project guidance, or earlier evaluations are already visible, the reader stops
+and reports the limitation. The companion [reader prompt](skills/independent-reader/references/reader-prompt.md)
+is included; use the complete folder.
+
 ## Using a skill
 
 The complete instructions live in `skills/<skill-name>/SKILL.md`. Read the
