@@ -21,6 +21,24 @@ including where it is uncertain and what would change it. It is designed to
 support independent judgment and substantive disagreement. Ordinary brief
 explanations and procedural walkthroughs do not need its full treatment.
 
+### [Think Out Loud Trace](skills/think-out-loud-trace/SKILL.md)
+
+A historical skill for adding a lightweight reasoning account to the task at
+hand: important assumptions, alternatives, confidence, and the derivation behind
+the answer. Petre describes this as his most-used skill before restrictions on
+internal reasoning traces affected its use.
+
+**Compatibility caveat:** some current models protect private internal
+reasoning. With those models, this edition asks for user-facing reasoning
+summaries, explanations, and checkable derivations within the model's boundaries.
+It does not promise access to an authentic internal transcript. OpenAI's
+[reasoning documentation](https://developers.openai.com/api/docs/guides/reasoning#Reasoning-summaries)
+distinguishes reasoning summaries from raw reasoning tokens.
+
+The [original historical edition](skills/think-out-loud-trace/references/original.md)
+is preserved unchanged. The compatibility note was added with OpenAI Codex for
+this publication on 14 October 2026.
+
 ## Using a skill
 
 The complete instructions live in `skills/<skill-name>/SKILL.md`. Read the
