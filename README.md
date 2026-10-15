@@ -34,6 +34,16 @@ project guidance, or earlier evaluations are already visible, the reader stops
 and reports the limitation. The companion [reader prompt](skills/independent-reader/references/reader-prompt.md)
 is included; use the complete folder.
 
+### [Take it for a walk](skills/take-it-for-a-walk/SKILL.md)
+
+Prepare a portable voice conversation from the current state of a writing project,
+explore it through patient inquiry and substantive challenge, then bring useful
+wording, corrections, and open questions back into the work. Use the complete
+folder, including its [conversation guidance](skills/take-it-for-a-walk/references/conversation.md).
+
+The [practical guide](https://github.com/PetreLaskov/ai-voice-mode-writing) shows
+how I use voice for writing, thinking, notes, and richer briefs for agents.
+
 ## Using a skill
 
 The complete instructions live in `skills/<skill-name>/SKILL.md`. Read the
